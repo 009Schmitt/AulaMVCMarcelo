@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RHmmuMzYEXZ0ZsqsOUxEs2dV7TwkEoc118a/pCf8G7ytjRC0KM5+PWYKC0iXHlcQ2tEW2jV1F+Frji0E441WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\entra21\\source\\repos\\MVCPresentationLayer\\MVCPresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\entra21\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\entra21\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\entra21\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
